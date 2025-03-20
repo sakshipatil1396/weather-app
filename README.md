@@ -101,7 +101,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## OutPut
+## 🎉Result
 
 ![image](https://github.com/user-attachments/assets/503ee443-581d-4445-939c-d7d1e5a24a52)
 ![image](https://github.com/user-attachments/assets/1aa2fb41-cc43-4e95-82e3-8eea3d90c909)
